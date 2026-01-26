@@ -8,17 +8,3 @@
   font-style: normal;
   font-size: 14pt;
 }
-body {
-  font-family: "Segoe UI", Arial, sans-serif;
-  background: linear-gradient(135deg, #ffe6f0, #e6f7ff);
-  margin: 0;
-  padding: 20px;
-}
-
-h1 {
-  text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.6);
-}
-
-h2 {
-  margin-top: 15px;
-}
